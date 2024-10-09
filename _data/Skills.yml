@@ -1,24 +1,14 @@
 subject: Skills
-listing-order: 5
+listing-order: 4
 icon: "/assets/img/screwdriver-wrench.svg"
 contents:
   - title: Programming Languages
     description: "
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg)
       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg)
+      ![devicon](https://upload.wikimedia.org/wikipedia/en/0/0f/ActionScript_icon.png)
     "
-  - title: Frameworks
+  - title: Software
     description: "
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openstack/openstack-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gatsby/gatsby-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg)
+      ![devicon](https://camo.githubusercontent.com/4cfc29edabb061eef5572b532a0c17e43d5d7a2a50074171e849290e00212d32/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f632f63342f556e6974795f323032312e737667)
+      ![devicon](https://cdn.worldvectorlogo.com/logos/github-icon-2.svg)
     "
