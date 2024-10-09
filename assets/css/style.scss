@@ -6,7 +6,7 @@
     --theme1-light: #F6D8CB;
     --theme1-medium: #aa0000;
     --theme1-dim: #B07D67;
-    --theme1-dark: #8A5843;
+    --theme1-dark: #990000;
     --theme2-light: #B1B1C2;
     --theme2-medium: #8888A4;
     --theme2-dim: #66658C;
@@ -17,7 +17,7 @@
     --theme3-dark: #A8955A;
     --theme4-light: #AABEB6;
     --theme4-medium: #aa0000;
-    --theme4-dim: #C8B887;
+    --theme4-dim: #00ffff;
     --theme4-dark: #A8955A;
     --font-dark: #eeeeee;
 }
@@ -169,7 +169,7 @@ a { text-decoration:none; }
     }
     
     .name-zone h1 { color: var(--theme4-medium); }
-    .name-zone h2 { color: var(--theme4-dark); }
+    .name-zone h2 { color: var(--theme1-dark); }
 }
 
 #contents{
@@ -277,7 +277,7 @@ a { text-decoration:none; }
     em { padding: 0 4px 0 1px; }
 
     a { 
-        color: var(--theme4-dark); 
+        color: var(--theme4-dim); 
         text-decoration: underline 1px;
         text-underline-position: under;
     }
@@ -319,7 +319,7 @@ a { text-decoration:none; }
     font-size: 14px;
 
     a { 
-        color: var(--theme1-dark);
+        color: var(--font-dark);
         font-weight: 600;
     }
 }
