@@ -6,7 +6,7 @@
     --theme1-light: #F6D8CB;
     --theme1-medium: #aa0000;
     --theme1-dim: #B07D67;
-    --theme1-dark: #990000;
+    --theme1-dark: #dddddd;
     --theme2-light: #B1B1C2;
     --theme2-medium: #8888A4;
     --theme2-dim: #66658C;
@@ -17,7 +17,7 @@
     --theme3-dark: #A8955A;
     --theme4-light: #AABEB6;
     --theme4-medium: #aa0000;
-    --theme4-dim: #00ffff;
+    --theme4-dim: #00aaff;
     --theme4-dark: #A8955A;
     --font-dark: #eeeeee;
 }
@@ -168,7 +168,7 @@ a { text-decoration:none; }
         margin: 0;
     }
     
-    .name-zone h1 { color: var(--theme4-medium); }
+    .name-zone h1 { color: var(--font-dark); }
     .name-zone h2 { color: var(--theme1-dark); }
 }
 
