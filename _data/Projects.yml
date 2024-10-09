@@ -2,9 +2,9 @@ subject: Projects
 listing-order: 2
 icon: "/assets/img/clipboard-list.svg"
 contents:
-  - title: "Labrats ([https://f-ezza.itch.io/lab-rats](https://f-ezza.itch.io/lab-rats))"
+  - title: "Lab Rats ([https://f-ezza.itch.io/lab-rats](itch.io/lab-rats))"
     description: 
       - "Password: axel40three"
-      - Collaborative project created with 2 other SAE students
+      - Collaborative project created with 2 other SAE University College students
       - "Created with: Unity, C#, Audacity, Blender, & Photopea"
     image: "![](https://img.itch.zone/aW1nLzE3MjQ4ODQ5LnBuZw==/original/ZRpCrN.png)"
